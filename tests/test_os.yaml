@@ -2679,3 +2679,9 @@ test_cases:
     patch:
     patch_minor:
 
+  - user_agent_string: 'Apple-iPhone10C5/1602.92'
+    family: 'iOS'
+    major: '12'
+    minor: '1'
+    patch:
+    patch_minor:

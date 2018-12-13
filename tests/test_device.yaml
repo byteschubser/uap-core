@@ -80084,3 +80084,8 @@ test_cases:
     family: 'Samsung SM-A520F'
     brand: 'Samsung'
     model: 'SM-A520F'
+
+  - user_agent_string: 'Apple-iPhone10C5/1602.92'
+    family: 'iPhone'
+    brand: 'Apple'
+    model: '8 Plus'
